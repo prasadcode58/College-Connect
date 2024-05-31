@@ -7,7 +7,7 @@ Two Android applications for seamless communication between college students and
   - another is "user college app"
 
 
-#Disclaimer**
+# Disclaimer**
 
   - Use your own google firebase secrets and firebase account
 
@@ -23,7 +23,7 @@ Two Android applications for seamless communication between college students and
   - User id and passwords for user college app is dynamic, so register yourself in app and then login for use.
 
 
-#Pre-requisites
+# Pre-requisites
 
 This project uses, 
 

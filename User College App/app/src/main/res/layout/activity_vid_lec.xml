@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".vidlec.VidLecActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:orientation="vertical">
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+                <ImageView
+                android:id="@+id/uefLogo"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ueflogo" />
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="8dp"
+                android:background="@color/collyel"/>
+
+            <TextView
+            android:id="@+id/urEng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size"
+            android:text="UEF Media Pvt. Ltd. is founded by Mr. Prince Raj Verma in 2018. The main purpose of this group was to deliver high quality content to MSBTE diploma students. When everyone was underestimating diploma education system , our founder Mr.Prince decided to change the whole level of MSBTE diploma education system. And then first time he launched his first book “Exam Sutra” and it was a big success. (Click On logo to open here / Click here to open in Youtube.)"
+            android:layout_marginTop="@dimen/text_margin"
+            android:layout_marginHorizontal="@dimen/text_margin"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@string/light"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/grey"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/text_margin"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/codehelplogo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/codehelp" />
+
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="8dp"
+                android:background="#AB7CFF"/>
+
+            <TextView
+                android:id="@+id/codehelp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/text_size"
+                android:text="Thinking of taking a step towards a mentorship programme? It definitely seems a bit daunting at first. It is never easy to ask for someone's counsel or guidance be it for studies or just in general. So, at CodeHelp we are here to provide all the necessary counsel you might need for placement preparations, interview experiences, programming, et cetera! (Click On logo to open here / Click here to open in Youtube.)"
+                android:layout_marginTop="@dimen/text_margin"
+                android:layout_marginHorizontal="@dimen/text_margin"
+                android:layout_gravity="center_horizontal"
+                android:fontFamily="@string/light"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/grey"/>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:orientation="vertical">
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+                <ImageView
+                android:id="@+id/gatesm"
+                android:layout_width="52dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/gatesmashers" />
+
+
+                <TextView
+                android:id="@+id/gatesmashers"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:fontFamily="@string/bold"
+                android:text="Gate Smashers"
+                android:textSize="@dimen/text_size" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="8dp"
+                android:background="#9E67FF"/>
+
+            <TextView
+            android:id="@+id/gateSmash"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size"
+            android:text="Gate Smashers is India's no 1 Free education platform for those aspirants who want to just smash the entrance exam like GATE,UGC NET,KVS,NVS,HTET,CTET etc in Computer Science but they are lagging behind due to lack of proper guidance. (Click On logo to open here / Click here to open in Youtube.)"
+            android:layout_marginTop="@dimen/text_margin"
+            android:layout_marginHorizontal="@dimen/text_margin"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@string/light"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_height="1dp"
+            android:layout_marginVertical="8dp"
+            android:background="@color/grey"/>
+
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:orientation="vertical">
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+                <ImageView
+                android:id="@+id/codewithar"
+                android:layout_width="52dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/codewithharry" />
+
+
+                <TextView
+                android:id="@+id/codeWith"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:fontFamily="@string/bold"
+                android:text="CodeWithHarry"
+                android:textSize="@dimen/text_size" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_marginVertical="8dp"
+                android:background="#EF9A9A"/>
+
+            <TextView
+            android:id="@+id/codeWithHarry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_size"
+            android:text="Code With Harry is my attempt to teach basics and those coding techniques to people in short time which took me ages to learn. At Code With Harry, I provide a quick and to the point demo along with resources of anything and everything I teach. Source code and other resources are hosted on my website CodeWithHarry.com. I provide source code(if any) in the description of every video. (Click On logo to open here / Click here to open in Youtube.)"
+            android:layout_marginTop="@dimen/text_margin"
+            android:layout_marginHorizontal="@dimen/text_margin"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@string/light"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

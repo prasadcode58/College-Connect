@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#003FFF</color>
+    <color name="colorAccentLite">#2563FF</color>
+    <color name="collred">#FF0000</color>
+    <color name="collyel">#FFC000</color>
+
+    <color name="textColor">#3f3b3b</color>
+    <color name="titleColor">#1b272c</color>
+    <color name="grey">#828080</color>
+    <color name="grey1">#4f4f4f</color>
+    <color name="grey2">#d6d6d6</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="darkColor">#313131</color>
+
+</resources>

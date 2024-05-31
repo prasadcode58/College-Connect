@@ -31,6 +31,6 @@ This project uses,
 
 - [Java](https://docs.oracle.com/en/java/)
 
--[XML](https://developer.mozilla.org/en-US/docs/Web/XML)
+- [XML](https://developer.mozilla.org/en-US/docs/Web/XML)
 
--[Icons](https://www.flaticon.com/) (icons are used from this website as assets)
+- [Icons](https://www.flaticon.com/) (icons are used from this website as assets)

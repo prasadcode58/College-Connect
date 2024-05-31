@@ -13,6 +13,6 @@ another is user college app
 - App contents and UI is according to my university, so change it according to your needs and your college
 
 - Default user-id and password of admin college app are:
-  Id - `admin@gmail.com`
+  - Id - `admin@gmail.com`
   
-  Password - `12345`
+  - Password - `12345`

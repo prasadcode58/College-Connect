@@ -13,14 +13,14 @@ Two Android applications for seamless communication between college students and
 
   - App contents and UI is according to my university, so change it according to your needs and your college
 
-  - Default user-id and password of admin college app are:
+  - Default user-id and password of "admin college app" are:
     - Id - `admin@gmail.com`
   
     - Password - `12345`
 
-  - Change user-id and password of admin college app in code as per your needs.
+  - Change user-id and password of "admin college app" in code as per your needs.
 
-  - User id and passwords for user college app is dynamic, so register yourself in app and then login for use.
+  - User id and passwords for "user college app" are dynamic, so register yourself in app and then login for use.
 
 
 # Pre-requisites

@@ -33,4 +33,10 @@ This project uses,
 
 - [XML](https://developer.mozilla.org/en-US/docs/Web/XML)
 
+- [Google Firebase](https://firebase.google.com/docs)
+
 - [Icons](https://www.flaticon.com/) (icons are used from this website as assets)
+
+# Build
+
+Build both apps seperately in android studio after doing all necessary changes.

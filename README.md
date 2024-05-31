@@ -2,9 +2,9 @@
 
 Two Android applications for seamless communication between college students and faculties,
 
-one is "admin college app" 
+-one is "admin college app" 
 
-another is "user college app"
+-another is "user college app"
 
 #Disclaimer**
 
@@ -16,7 +16,8 @@ another is "user college app"
   - Id - `admin@gmail.com`
   
   - Password - `12345`
-  Change them in code as per your needs.
+
+- Change user-id and password of admin college app in code as per your needs.
 
 - User id and passwords for user college app is dynamic, so register yourself in app and then login for use.
 
